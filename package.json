@@ -1,0 +1,29 @@
+{
+  "name": "bter",
+  "version": "0.0.1",
+  "description": "simple bter client",
+  "main": "example.js",
+  "dependencies": {
+    "nonce": "~1.0.3",
+    "request": "~2.33.0"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "nodeunit": "~0.8.4",
+    "grunt-contrib-jshint": "~0.8.0",
+    "grunt-contrib-nodeunit": "~0.3.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": "https://github.com/opfl/bter.git",
+  "keywords": [
+    "bter",
+    "bitcoin",
+    "exchange",
+    "doge",
+    "btc"
+  ],
+  "author": "opfl",
+  "license": "MIT"
+}
