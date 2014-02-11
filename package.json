@@ -2,7 +2,7 @@
   "name": "bter",
   "version": "0.0.1",
   "description": "simple bter client",
-  "main": "example.js",
+  "main": "./lib/bter",
   "dependencies": {
     "nonce": "~1.0.3",
     "request": "~2.33.0"
