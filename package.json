@@ -1,6 +1,6 @@
 {
   "name": "bter",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "simple bter client",
   "main": "./lib/bter",
   "dependencies": {
