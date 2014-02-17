@@ -1,5 +1,5 @@
 # bter
-Simple BTER library for the BTER.com API
+BTER.com API wrapper
 
 ## Installation
     $ npm install bter
